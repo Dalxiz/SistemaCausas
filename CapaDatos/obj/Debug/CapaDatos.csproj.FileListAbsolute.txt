@@ -1,0 +1,15 @@
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\MetroFramework.Design.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\MetroFramework.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\David Morales\Desktop\SISTEMA_CAUSA\SistemaCausas\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
